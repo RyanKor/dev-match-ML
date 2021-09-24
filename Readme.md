@@ -1,5 +1,9 @@
 # Programmers Dev-Match 미술 작품 분류하기 프로젝트
 
+## 프로젝트 작업 과정에 대한 내 코드 해설 포스트
+
+- [RyanKor](https://equus3144.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EB%A7%A4%EC%B9%AD-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%BC%EC%A0%9C-%ED%9B%84%EA%B8%B0-with-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-4b2b633b3e75)
+
 ## 1. 프로젝트 수행 기간
 
 - 2021.09.17 ~ 2021.09.24
