@@ -2,7 +2,9 @@
 
 ## 프로젝트 작업 과정에 대한 내 코드 해설 포스트
 
-- [RyanKor](https://equus3144.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EB%A7%A4%EC%B9%AD-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%BC%EC%A0%9C-%ED%9B%84%EA%B8%B0-with-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-4b2b633b3e75)
+- [9월 결과](https://equus3144.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EB%A7%A4%EC%B9%AD-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%BC%EC%A0%9C-%ED%9B%84%EA%B8%B0-with-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-4b2b633b3e75)
+
+- [10월 최종](https://equus3144.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-dev-match-%EB%AF%B8%EC%88%A0%EC%9E%91%ED%92%88-%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0-%EC%B5%9C%EC%A2%85-%EC%A0%95%EB%A6%AC-with-tensorflow-84f336a05939)
 
 ## 1. 프로젝트 수행 기간
 
